@@ -5,3 +5,5 @@ Criaremos um projeto no Power BI Completo e integraremos
 Depois faremos isso como Fabric
 
 E ainda replicaremos com AzureDevOps !
+
+A aula está realmente incrivel
